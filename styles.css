@@ -1,0 +1,17 @@
+body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+h1 {
+background-color: goldenrod;
+color: rgb(30, 67, 162);
+text-align: center;
+padding: 20px;
+margin: 30px;
+border: 40px;    
+}
+
+.list {
+padding: 10px;
+font-family: cursive;       
+}
